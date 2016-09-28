@@ -1,8 +1,9 @@
-#**Simple Process Layout** 
 ---
-layout:default
-Title:Home
+layout: default
+Title: Home
 ---
+
+#**Simple Process Layout**
 
 _Cleaning your Room_
 
