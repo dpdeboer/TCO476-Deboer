@@ -1,5 +1,6 @@
 ---
 Permalink: /clean/
+layout: default
 Title: Clean
 ---
 
