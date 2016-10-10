@@ -18,5 +18,4 @@ This site is dedicated to providing information regarding room sanitization and 
 
 4.	[Tips for vacuuming](Vacuum tips.md)
 
-
-![](https://lh3.googleusercontent.com/q2Pep1p4yaYwpITU9jQJdhGY7drMBgG0Wm_MAZIMX9nAGVq8XNadFft-OKOBABNW_N38Ro7SYL2tYLY=w2160-h1245)
+![](https://lh3.googleusercontent.com/p3sbPCZafxCKeThM6M_5MLKXXYE5b_GaQi5OcGViEv_6d8W_QmyyaLqHn06fGyRroDEdON7DoWkEg_Q=w2160-h1245)
