@@ -1,5 +1,5 @@
 ---
-permalink: /bed/
+permalink: /Making the bed.md/
 layout: default
 Title: Bed
 ---
