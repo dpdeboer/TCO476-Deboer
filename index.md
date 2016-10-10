@@ -18,4 +18,4 @@ Title: Home
 4.	[Tips for vacuuming](Vacuum tips.md)
 
 
-![](https://drive.google.com/open?id=0B0qlO3MZowquaHRCYXJRR0FuSkk)
+![](https://lh3.googleusercontent.com/nk52cCid5x8a5Mpo04EfsU3bnEYcSgtQ2gF11k9TLU6G6yyA--hIXD4f3hYLKvtLP89k6b60HJxhV7A=w2160-h1171)
