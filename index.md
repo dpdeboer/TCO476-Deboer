@@ -18,4 +18,4 @@ Title: Home
 4.	[Tips for vacuuming](Vacuum tips.md)
 
 
-![](/images/clean guy.png)
+![](https://drive.google.com/open?id=0B0qlO3MZowquaHRCYXJRR0FuSkk)
