@@ -5,7 +5,8 @@ Title: Home
 
    #**A Guide to Effectivly cleaning Your Room**
 	
-                    _Welcome!_
+     _Welcome!_
+		 
 This site is dedicated to providing information regarding room sanitization and organization 
 
 
