@@ -23,7 +23,7 @@ Title: Clean
 - Stainless Steel Magic 
 - Formby’s Furniture Polish 
 
-![](https://pixabay.com/static/uploads/photo/2013/04/01/21/32/washing-machine-99241_960_720.png)
+![](https://lh3.googleusercontent.com/fKr7FV2YxKO4aDEDE1-FbA6R5WxDmdDE7VRyKZljcggD4AwUbEdORp_mCx1l_WXEAUR3WShXwJXDYI4=w2160-h1171)
 
 
 For more information on these products, [click here](https://household-tips.thefuntimesguide.com/2008/05/best_cleaning_products.php)
