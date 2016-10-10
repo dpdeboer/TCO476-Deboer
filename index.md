@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: CLeaning Your Room
+Title: Home
 ---
 
    #**A Guide to Effectivly cleaning Your Room**
