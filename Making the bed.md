@@ -33,6 +33,6 @@ For more information, check out these links:
 
 [Perfect Bed Video](https://www.youtube.com/watch?v=h8jIxuO2APE)
 
-![Bed Making 101 ](https://www.youtube.com/watch?v=h8jIxuO2APE)
+[Bed Making 101 ](https://www.youtube.com/watch?v=h8jIxuO2APE)
 
 ![](https://lh3.googleusercontent.com/fKr7FV2YxKO4aDEDE1-FbA6R5WxDmdDE7VRyKZljcggD4AwUbEdORp_mCx1l_WXEAUR3WShXwJXDYI4=w2160-h1171)
