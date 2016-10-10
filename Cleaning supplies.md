@@ -1,5 +1,5 @@
 ---
-Permalink: /clean/
+Permalink: /Cleaning supplies.md/
 layout: default
 Title: Clean
 ---
