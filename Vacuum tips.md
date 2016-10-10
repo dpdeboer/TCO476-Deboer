@@ -1,5 +1,5 @@
 ---
-permalink: /Vacuum/
+permalink: /Vacuum tips.md/
 layout: default
 Title: Vacuuming
 ---
