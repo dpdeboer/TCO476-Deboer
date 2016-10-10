@@ -1,5 +1,6 @@
 ---
 permalink: /orig/
+layout: default
 Title: Origination 
 ---
 
