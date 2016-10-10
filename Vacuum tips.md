@@ -1,5 +1,6 @@
 ---
 permalink: /Vacuum/
+layout: default
 Title: Vacuuming
 ---
 
