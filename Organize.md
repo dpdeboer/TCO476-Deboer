@@ -13,4 +13,4 @@ Focus on the best strategies for organizing room contents
 - BUy tall funiture to take advantage of vertical space 
 	  For more information, [click here ](http://www.popsugar.com/smart-living/Bedroom-Organization-Tips-22309085?stream_view=1#photo-22309094)
 	 
- !(https://lh5.googleusercontent.com/-opOJJQWDcILlp3_O9UrI29JI5B8bGc_zdNQzjbcY-tq0NhFZ-2IAsUmY9o-AmLQIjL56l7NW7tFIeQ=w2160-h1171)
+ ![](https://lh3.googleusercontent.com/_bSKQ2rOa8o9wMgIc24LE1oC1TjUXC7jIimCg-QXj718DqQFYCyh75TJVfBhioFGLuIuGPpVtuMqb90=w2160-h1245)
