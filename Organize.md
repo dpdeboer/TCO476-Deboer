@@ -1,5 +1,5 @@
 ---
-permalink: /orig/
+permalink: /Organize.md/
 layout: default
 Title: Origination 
 ---
