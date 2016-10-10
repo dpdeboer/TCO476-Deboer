@@ -16,4 +16,4 @@ _Origination strategies_
 	 
 	
 
-                             ![](https://cdn4.iconfinder.com/data/icons/documents-30/64/filing_triple-512.png)
+                             ![](https://lh5.googleusercontent.com/-opOJJQWDcILlp3_O9UrI29JI5B8bGc_zdNQzjbcY-tq0NhFZ-2IAsUmY9o-AmLQIjL56l7NW7tFIeQ=w2160-h1171)
