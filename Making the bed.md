@@ -1,5 +1,6 @@
 ---
 permalink: /bed/
+layout: default
 Title: Bed
 ---
 
