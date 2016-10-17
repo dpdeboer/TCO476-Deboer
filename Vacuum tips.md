@@ -20,6 +20,4 @@ _Vacuuming Tips _
 
 For more information, [click here](http://www.consumerreports.org/cro/news/2011/03/consumer-reports-10-tips-on-how-to-vacuum/index.htm)
 
-
-![](https://lh3.googleusercontent.com/_lLofFHh72ndJzpOc1do29Xvqi-Ob3TvZGP8mapLtt1UmkljCTm3100tABxOsGKUN0JxplRPGHCwAe4=w2160-h1245)
 ![](/Images/Vacuum.png)
